@@ -1,0 +1,28 @@
+This kit is licensed under CC0 1.0, so you’re not required to credit me or even release it under the same license, and you can even make your fork proprietary, etc.
+
+It’s a script for creating executable Roblox game apps without having to go through their launcher or website.
+
+About Windows Version:
+
+
+I haven't really tested the Windows version because I don't have Windows installed on my computer, but I tried running it on a virtual machine—it crashes when I launch it, but in theory it should work.
+
+On Windows, you need to open the correct folder using Shell, and you MUST ENTER THESE TWO COMMANDS:
+
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+
+and then:
+
+./builder.ps1
+
+About Ubuntu Version:
+
+The Ubuntu version should theoretically work on Debian, though I’ve never tested it. However, it works on Linux Mint, which is based on Ubuntu, so there’s a VERY GOOD CHANCE it will work on Ubuntu as well. If it doesn’t, contact me at
+
+Stormwindsky@proton.me
+
+or on
+
+https://gamejolt.com/@Stormwindsky
+
+And on Ubuntu, you just need to grant execution permissions via the settings in the Builder.sh file and then run it by double-clicking on it

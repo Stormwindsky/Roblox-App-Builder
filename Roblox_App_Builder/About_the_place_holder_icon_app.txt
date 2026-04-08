@@ -1,0 +1,5 @@
+The placeholder images for icon.png and icon.ico are from my website and are licensed under CC0 1.0
+
+you can find on:
+
+https://raw.githubusercontent.com/Stormwindsky/ArtLibre/main/ArtLibre/ArtLibre/files/Campfire%204.JPG
