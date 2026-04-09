@@ -26,3 +26,9 @@ or on
 https://gamejolt.com/@Stormwindsky
 
 And on Ubuntu, you just need to grant execution permissions via the settings in the Builder.sh file and then run it by double-clicking on it
+
+About SteamOS (Steam Deck Version):
+
+you need to run that on the terminal:
+
+bash builder.sh
