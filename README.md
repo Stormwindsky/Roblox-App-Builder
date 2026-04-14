@@ -12,7 +12,7 @@ This is a starter kit for creating your own Roblox app. There are versions for U
 
 
 
-# How this is work?:
+# How to the app work?:
 
 The Windows and Linux versions work almost the same way; the only major difference is that since Roblox isn't officially supported on Linux, it uses Sober.
 
